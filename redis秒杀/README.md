@@ -1,0 +1,2 @@
+# scenario
+redis秒杀
